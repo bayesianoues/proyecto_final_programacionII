@@ -1,0 +1,27 @@
+---
+title: "Proyecto Final"
+format: pdf
+editor: visual
+---
+
+## Descripción del conjunto de datos
+
+El conjunto de datos del proyecto se inspiró en el [conjunto de datos de predicción de riego](https://www.kaggle.com/datasets/miadul/irrigation-water-requirement-prediction-dataset/data). Las distribuciones de las características son similares a las del original, pero no idénticas.
+
+## Archivos
+
+- `train.csv`: el conjunto de entrenamiento, con `Irrigation_Need` como variable objetivo.
+
+## Rúbrica
+
+1.  Con lo visto en clase y usando power bi service realize un reporte (debe de crear un modelo semántico de datos):
+
+- Calcule el número de filas en una tarjeta
+- Cree un gráfico que cuente el número de observaciones para cada uno de los niveles de la variable objetivo
+- Realize una captura de pantalla del reporte
+
+2.  De lo hecho en el literal 1 genere un informe donde usando ggplot2 se calcule lo siguiente:
+
+- Calcule el número de filas
+- Cree un gráfico que cuente el número de observaciones para cada uno de los niveles de la variable objetivo
+- Además incluye en el informe la captura de pantalla
